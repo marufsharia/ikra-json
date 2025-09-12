@@ -1,4 +1,4 @@
-[
+{
   {
     "number": 1,
     "name": "سُورَةُ ٱلْفَاتِحَةِ",
@@ -1139,4 +1139,5 @@
     "numberOfAyahs": 6,
     "revelationType": "Meccan"
   }
-]
+
+}
